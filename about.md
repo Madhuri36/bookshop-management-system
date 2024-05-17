@@ -23,5 +23,5 @@ Welcome to the Bookstore Management System! This project aims to provide an effi
 - **Managing Customers**: Update and maintain customer records through the customer management section.
 - **Handling Transactions**: Record and manage all book sales efficiently.
 
-Thank you for viewing the Bookstore Management System. 
+Thank you for using the Bookstore Management System. 
 
